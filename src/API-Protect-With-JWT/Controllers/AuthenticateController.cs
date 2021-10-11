@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using System.Threading.Tasks;
 using API_Protect_With_JWT.Models.InputModels;
 using API_Protect_With_JWT.Models.Options;
 using Microsoft.AspNetCore.Mvc;
